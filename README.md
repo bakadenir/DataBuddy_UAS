@@ -1,6 +1,6 @@
-# DataBuddy UAS — Academic Deliverables 📦
+# DataBuddy UAS — Project Documentation 📦
 
-> **Final Project Documentation:** Academic artifacts for the DataBuddy E-Commerce Analytics Assistant — including PDF reports, presentation slides, architecture diagrams, and prompt testing logs.
+> **Project Documentation:** Supporting documents for the DataBuddy E-Commerce Analytics platform — including reports, presentations, architecture diagrams, and testing logs.
 
 ---
 
@@ -9,28 +9,20 @@
 | Deliverable | Description |
 |-------------|-------------|
 | **📄 PDF Report** | Full project documentation — methodology, implementation, results |
-| **📊 PPT Presentation** | Defense/presentation slides |
+| **📊 Presentation** | Slide deck for project demonstration |
 | **🏗️ Architecture Diagram** | System architecture (SVG/HTML) |
-| **🧪 Prompt Testing Log** | LLM prompt engineering test cases & results |
-| **📋 Responsible AI Matrix** | Ethical AI assessment framework |
+| **🧪 Testing Log** | Test cases and results |
+| **📋 Assessment Matrix** | Project evaluation framework |
 
 ---
 
 ## 🔗 Related
 
-- **Main Project:** [DataBuddy](https://github.com/bakadenir/databuddy) — The full application
+- **Main Project:** [DataBuddy](https://github.com/bakadenir/databuddy)
 - **Live Demo:** [databuddy.my.id](https://databuddy.my.id)
-
----
-
-## 🎓 Academic Context
-
-- **Course:** Artificial Intelligence (AI04)
-- **Institution:** Universitas Cakrawala
-- **Student:** Deni Romadhon (24120300024)
 
 ---
 
 ## 📝 License
 
-MIT — for academic and educational purposes.
+MIT
